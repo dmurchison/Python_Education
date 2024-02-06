@@ -18,5 +18,3 @@ def rectangle_diagonal(l, w):
 print(f"The area of a rectangle with length {l} and width {w} is {rectangle_area(l, w)}")
 print(f"The perimeter of a rectangle with length {l} and width {w} is {rectangle_perimeter(l, w)}")
 print(f"The diagonal of a rectangle with length {l} and width {w} is {rectangle_diagonal(l, w)}")
-
-
